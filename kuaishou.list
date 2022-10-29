@@ -177,3 +177,8 @@ DOMAIN-SUFFIX,zosurrdc.com,reject
 DOMAIN-SUFFIX,zrpwxgp.com,reject
 DOMAIN-SUFFIX,zsciupd.com,reject
 DOMAIN-SUFFIX,zygvqivs.com,reject
+HOST-SUFFIX,e.kuaishou.com, reject
+HOST,js-ad.a.yximgs.com, reject
+HOST-SUFFIX,cm.downloader.commercial.kuaishou.com, reject
+HOST-SUFFIX,cm.ad.gifshow.com, reject
+HOST-SUFFIX,cm.kwad.com, reject
